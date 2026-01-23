@@ -1,11 +1,8 @@
-Hi there 👋
-
-dmitrymedvedev-Hub/dmitrymedvedev-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi there! I'm Abdallah Mohammed Elmahday 👋
 
 🚀 Full-Stack JavaScript Engineer
-I'm a passionate **Full-Stack JavaScript Engineer** dedicated to building scalable and high-performance web applications. My expertise spans the entire development lifecycle, from crafting interactive and responsive UIs with **React, HTML, and CSS** ⚛️ to architecting robust server-side logic using **Node.js and Express.js** 🟢. I specialize in designing efficient relational databases with **SQL** 🗄️ to ensure data integrity and speed. I thrive on turning complex problems into clean, maintainable code! 💻✨"
+I'm a passionate Full-Stack JavaScript Engineer dedicated to building scalable, high-performance web applications. My expertise spans the entire development lifecycle, from crafting interactive, responsive UIs with **React, HTML, and CSS** ⚛️ to architecting robust server-side logic with **Node.js and Express.js** 🟢. I specialize in designing efficient relational databases with **SQL** 🗄️ to ensure data integrity and speed. I thrive on turning complex problems into clean, maintainable code! 💻✨"
 
 ---
 
