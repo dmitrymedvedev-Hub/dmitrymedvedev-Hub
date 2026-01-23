@@ -3,14 +3,21 @@
 <!--
 **dmitrymedvedev-Hub/dmitrymedvedev-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there! I'm Abdallah Mohammed Elmahday 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Full-Stack JavaScript Engineer
+"I'm a passionate **Full-Stack JavaScript Engineer** dedicated to building scalable and high-performance web applications. My expertise spans the entire development lifecycle, from crafting interactive and responsive UIs with **React, HTML, and CSS** ⚛️ to architecting robust server-side logic using **Node.js and Express.js** 🟢. I specialize in designing efficient relational databases with **SQL** 🗄️ to ensure data integrity and speed. I thrive on turning complex problems into clean, maintainable code! 💻✨"
+
+---
+
+### 🛠️ Tech Stack & Tools
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📫 Connect with me:
+[(https://www.linkedin.com/in/abdallah-mohammed-elmhady-05928b338/)]
